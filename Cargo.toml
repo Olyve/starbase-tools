@@ -5,6 +5,7 @@ edition = "2018"
 authors = ["Sam Galizia <samgalizia@pm.me>"]
 description = "A collection of tools created to help with ship building in the game Starbase by FrozenByte"
 repository = "https://github.com/sgalizia/starbase-tools"
+license = "GNU GPL3"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
