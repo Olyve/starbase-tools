@@ -1,6 +1,6 @@
 [package]
 name = "starbase-tools"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2018"
 authors = ["Sam Galizia <samgalizia@pm.me>"]
 description = "A collection of tools created to help with ship building in the game Starbase by FrozenByte"
